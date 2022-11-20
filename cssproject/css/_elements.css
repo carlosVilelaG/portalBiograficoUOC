@@ -1,0 +1,28 @@
+/* src/elements.css */
+/* Fluid images*/
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+figure {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    background: white;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+figcaption {
+    font-size: 0.8rem;
+    padding-top: 7px;
+}
+
+.negrita {
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.centrado {
+    text-align: center;
+}
